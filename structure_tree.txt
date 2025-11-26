@@ -1,0 +1,12 @@
+04_log-anomaly-detector/
+├── 00_logs/
+│     └── sample_syslog_ssh_big.log
+├── 01_scripts/
+│     └── anomaly_detector.py
+├── 02_config/
+│     └── config.json
+├── 03_results/
+│     ├── anomalies.json
+│     └── report.txt
+├── README.md
+└── structure_tree.txt

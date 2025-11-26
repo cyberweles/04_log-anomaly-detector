@@ -1,0 +1,480 @@
+Nov 22 13:05:17 linux-db-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 45944 ssh2
+Nov 22 12:49:29 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 63165 ssh2
+Nov 22 12:43:38 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 61852 ssh2
+Nov 22 12:29:44 linux-db-01 sshd[12345]: Accepted password for appuser from 192.168.1.77 port 63890 ssh2
+Nov 22 13:36:55 linux-db-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:42:43 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 51724 ssh2
+Nov 22 13:31:04 linux-web-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:50:17 linux-web-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:47:49 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 58136 ssh2
+Nov 22 12:44:33 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 56199 ssh2
+Nov 22 13:07:06 linux-web-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 50751 ssh2
+Nov 22 13:21:06 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 13:49:38 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 12:01:54 linux-jump-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 59349 ssh2
+Nov 22 12:48:08 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 47090 ssh2
+Nov 22 12:57:17 linux-web-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 49671 ssh2
+Nov 22 12:47:32 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 56009 ssh2
+Nov 22 12:28:23 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 53338 ssh2
+Nov 22 12:47:56 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 63031 ssh2
+Nov 22 12:51:07 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 40448 ssh2
+Nov 22 12:50:43 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 56862 ssh2
+Nov 22 12:58:06 linux-jump-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 60301 ssh2
+Nov 22 12:56:48 linux-jump-01 sshd[34567]: Failed password for admin from 198.51.100.23 port 50705 ssh2
+Nov 22 12:54:54 linux-web-01 sshd[34567]: Failed password for root from 185.13.44.200 port 59253 ssh2
+Nov 22 13:12:23 linux-jump-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:00:52 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 49012 ssh2
+Nov 22 12:43:15 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 53096 ssh2
+Nov 22 12:54:12 linux-jump-01 sshd[34567]: Failed password for admin from 198.51.100.23 port 42587 ssh2
+Nov 22 13:28:18 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:48:33 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 43361 ssh2
+Nov 22 13:06:13 linux-web-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 54519 ssh2
+Nov 22 13:42:13 linux-web-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:42:59 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 53491 ssh2
+Nov 22 12:43:44 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 46286 ssh2
+Nov 22 13:44:52 linux-web-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:49:48 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 54390 ssh2
+Nov 22 12:48:56 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 53637 ssh2
+Nov 22 13:00:00 linux-web-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 40699 ssh2
+Nov 22 12:02:04 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 47164 ssh2
+Nov 22 12:07:59 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 49482 ssh2
+Nov 22 12:44:19 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 41514 ssh2
+Nov 22 12:50:22 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 42989 ssh2
+Nov 22 12:55:56 linux-db-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 51544 ssh2
+Nov 22 13:04:28 linux-web-01 sshd[34567]: Failed password for backup from 185.13.44.200 port 43546 ssh2
+Nov 22 12:31:35 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 54700 ssh2
+Nov 22 13:27:23 linux-jump-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:42:50 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 53316 ssh2
+Nov 22 12:44:29 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 46371 ssh2
+Nov 22 12:51:49 linux-jump-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 46181 ssh2
+Nov 22 12:42:35 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 57877 ssh2
+Nov 22 12:39:27 linux-jump-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 50366 ssh2
+Nov 22 12:51:27 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 56637 ssh2
+Nov 22 12:13:42 linux-jump-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 64478 ssh2
+Nov 22 12:47:28 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 42805 ssh2
+Nov 22 13:03:02 linux-jump-01 sshd[34567]: Failed password for root from 185.13.44.200 port 50240 ssh2
+Nov 22 13:08:08 linux-web-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 42551 ssh2
+Nov 22 12:51:24 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 42287 ssh2
+Nov 22 12:43:48 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 62194 ssh2
+Nov 22 13:04:57 linux-jump-01 sshd[34567]: Failed password for appuser from 37.120.150.90 port 61059 ssh2
+Nov 22 12:15:42 linux-jump-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 52608 ssh2
+Nov 22 12:43:10 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 49146 ssh2
+Nov 22 12:43:01 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 48742 ssh2
+Nov 22 12:24:30 linux-jump-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 63361 ssh2
+Nov 22 12:47:04 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 54272 ssh2
+Nov 22 12:54:00 linux-web-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 54112 ssh2
+Nov 22 13:03:34 linux-web-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 64208 ssh2
+Nov 22 12:42:23 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 60784 ssh2
+Nov 22 12:48:11 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 63743 ssh2
+Nov 22 13:06:55 linux-jump-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 52951 ssh2
+Nov 22 13:09:29 linux-web-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:58:04 linux-jump-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 43550 ssh2
+Nov 22 12:55:26 linux-web-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 51762 ssh2
+Nov 22 12:10:08 linux-web-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 45354 ssh2
+Nov 22 13:05:27 linux-web-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 43006 ssh2
+Nov 22 13:02:46 linux-jump-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 47487 ssh2
+Nov 22 12:57:39 linux-web-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 62098 ssh2
+Nov 22 13:30:55 linux-db-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:53:13 linux-db-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 50766 ssh2
+Nov 22 12:02:10 linux-web-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 58390 ssh2
+Nov 22 12:45:07 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 48998 ssh2
+Nov 22 12:43:20 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 59024 ssh2
+Nov 22 12:46:12 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 41706 ssh2
+Nov 22 12:51:08 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 47362 ssh2
+Nov 22 12:51:02 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 63258 ssh2
+Nov 22 12:47:10 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 54771 ssh2
+Nov 22 12:13:21 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 48081 ssh2
+Nov 22 12:59:05 linux-db-01 sshd[34567]: Failed password for appuser from 37.120.150.90 port 45063 ssh2
+Nov 22 13:07:29 linux-web-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 63057 ssh2
+Nov 22 12:56:53 linux-jump-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 44330 ssh2
+Nov 22 13:43:19 linux-jump-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:25:28 linux-db-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 48123 ssh2
+Nov 22 12:50:00 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 59782 ssh2
+Nov 22 12:44:57 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 53983 ssh2
+Nov 22 13:03:21 linux-db-01 sshd[34567]: Failed password for root from 198.51.100.23 port 42797 ssh2
+Nov 22 12:53:53 linux-jump-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 50629 ssh2
+Nov 22 13:39:49 linux-db-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:46:26 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 64508 ssh2
+Nov 22 12:41:39 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 58448 ssh2
+Nov 22 12:19:28 linux-db-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 48630 ssh2
+Nov 22 13:19:06 linux-db-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:52:26 linux-web-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 56459 ssh2
+Nov 22 12:50:11 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 41318 ssh2
+Nov 22 12:49:42 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 42339 ssh2
+Nov 22 12:25:53 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 40235 ssh2
+Nov 22 12:05:17 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 51763 ssh2
+Nov 22 13:04:13 linux-jump-01 sshd[34567]: Failed password for root from 185.13.44.200 port 50238 ssh2
+Nov 22 13:36:27 linux-db-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:40:00 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=appuser uid=1000 euid=0 tty=/dev/pts/0 ruser=appuser rhost=  user=appuser
+Nov 22 12:47:36 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 61164 ssh2
+Nov 22 13:00:52 linux-web-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 45717 ssh2
+Nov 22 12:44:05 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 56750 ssh2
+Nov 22 12:03:41 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 49115 ssh2
+Nov 22 13:25:59 linux-jump-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:04:02 linux-db-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 53858 ssh2
+Nov 22 12:49:13 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 45146 ssh2
+Nov 22 12:26:10 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 56847 ssh2
+Nov 22 13:19:56 linux-jump-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:25:16 linux-db-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 52236 ssh2
+Nov 22 13:24:34 linux-web-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:46:07 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 55411 ssh2
+Nov 22 12:46:36 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 43339 ssh2
+Nov 22 13:01:47 linux-db-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 55695 ssh2
+Nov 22 12:57:26 linux-jump-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 42467 ssh2
+Nov 22 13:45:49 linux-web-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:43:07 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 47457 ssh2
+Nov 22 12:01:44 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 43358 ssh2
+Nov 22 12:52:58 linux-db-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 62698 ssh2
+Nov 22 13:35:48 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=appuser uid=1000 euid=0 tty=/dev/pts/0 ruser=appuser rhost=  user=appuser
+Nov 22 13:01:30 linux-db-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 59453 ssh2
+Nov 22 12:43:53 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 58648 ssh2
+Nov 22 12:49:51 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 62928 ssh2
+Nov 22 12:49:57 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 59596 ssh2
+Nov 22 12:49:18 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 42459 ssh2
+Nov 22 12:42:22 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 56008 ssh2
+Nov 22 12:29:10 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 54124 ssh2
+Nov 22 12:45:53 linux-jump-01 sshd[23456]: Failed password for root from 203.0.113.45 port 59395 ssh2
+Nov 22 12:43:28 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 41454 ssh2
+Nov 22 13:38:07 linux-db-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:42:45 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 61854 ssh2
+Nov 22 13:12:39 linux-db-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:02:59 linux-web-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 57856 ssh2
+Nov 22 13:13:29 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=deploy uid=1000 euid=0 tty=/dev/pts/0 ruser=deploy rhost=  user=deploy
+Nov 22 12:53:51 linux-jump-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 45451 ssh2
+Nov 22 13:15:02 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=backup uid=1000 euid=0 tty=/dev/pts/0 ruser=backup rhost=  user=backup
+Nov 22 12:47:15 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 59999 ssh2
+Nov 22 13:32:48 linux-jump-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:47:26 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 58212 ssh2
+Nov 22 12:45:15 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 47577 ssh2
+Nov 22 12:25:34 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 59277 ssh2
+Nov 22 13:51:08 linux-db-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:51:22 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 59640 ssh2
+Nov 22 12:41:54 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 63053 ssh2
+Nov 22 12:50:50 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 56988 ssh2
+Nov 22 12:57:45 linux-web-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 54902 ssh2
+Nov 22 12:43:04 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 46539 ssh2
+Nov 22 12:42:42 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 41370 ssh2
+Nov 22 12:47:45 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 61756 ssh2
+Nov 22 12:07:23 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 60599 ssh2
+Nov 22 13:23:20 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:02:54 linux-db-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 53631 ssh2
+Nov 22 12:50:39 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 48270 ssh2
+Nov 22 12:43:24 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 54299 ssh2
+Nov 22 13:42:03 linux-db-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:16:20 linux-db-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 48238 ssh2
+Nov 22 12:43:31 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 51934 ssh2
+Nov 22 12:32:53 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 58033 ssh2
+Nov 22 12:46:15 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 46532 ssh2
+Nov 22 12:14:12 linux-jump-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 51861 ssh2
+Nov 22 12:44:47 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 61875 ssh2
+Nov 22 12:44:07 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 61589 ssh2
+Nov 22 12:42:32 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 63123 ssh2
+Nov 22 13:07:00 linux-jump-01 sshd[34567]: Failed password for root from 198.51.100.23 port 49876 ssh2
+Nov 22 12:53:22 linux-jump-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 60232 ssh2
+Nov 22 12:50:06 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 40679 ssh2
+Nov 22 13:02:25 linux-db-01 sshd[34567]: Failed password for appuser from 37.120.150.90 port 43249 ssh2
+Nov 22 13:44:17 linux-web-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:19:39 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 60489 ssh2
+Nov 22 12:50:31 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 49444 ssh2
+Nov 22 12:42:10 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 45093 ssh2
+Nov 22 13:42:24 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1000 euid=0 tty=/dev/pts/0 ruser=ubuntu rhost=  user=ubuntu
+Nov 22 12:43:29 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 57036 ssh2
+Nov 22 12:47:07 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 50561 ssh2
+Nov 22 12:54:29 linux-db-01 sshd[34567]: Failed password for appuser from 198.51.100.23 port 55110 ssh2
+Nov 22 12:43:18 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 40904 ssh2
+Nov 22 13:06:38 linux-db-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 56788 ssh2
+Nov 22 13:02:17 linux-db-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 49663 ssh2
+Nov 22 13:34:37 linux-jump-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:21:16 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:43:25 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 52622 ssh2
+Nov 22 12:40:17 linux-db-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 50295 ssh2
+Nov 22 13:29:07 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=backup uid=1000 euid=0 tty=/dev/pts/0 ruser=backup rhost=  user=backup
+Nov 22 12:46:17 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 47816 ssh2
+Nov 22 12:53:34 linux-web-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 49416 ssh2
+Nov 22 13:47:25 linux-jump-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:30:38 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1000 euid=0 tty=/dev/pts/0 ruser=ubuntu rhost=  user=ubuntu
+Nov 22 13:05:25 linux-web-01 sshd[34567]: Failed password for appuser from 37.120.150.90 port 42280 ssh2
+Nov 22 12:38:49 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 53737 ssh2
+Nov 22 13:16:00 linux-web-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:49:26 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 49543 ssh2
+Nov 22 12:58:28 linux-jump-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 41485 ssh2
+Nov 22 12:48:16 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 49273 ssh2
+Nov 22 12:55:07 linux-db-01 sshd[34567]: Failed password for backup from 185.13.44.200 port 48195 ssh2
+Nov 22 13:22:37 linux-db-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:43:02 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 52535 ssh2
+Nov 22 13:04:23 linux-db-01 sshd[34567]: Failed password for root from 37.120.150.90 port 46971 ssh2
+Nov 22 13:00:56 linux-web-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 40486 ssh2
+Nov 22 13:44:58 linux-web-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:45:54 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 42750 ssh2
+Nov 22 12:35:37 linux-jump-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 46222 ssh2
+Nov 22 12:45:02 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 64634 ssh2
+Nov 22 13:12:03 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1000 euid=0 tty=/dev/pts/0 ruser=ubuntu rhost=  user=ubuntu
+Nov 22 12:51:30 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 63791 ssh2
+Nov 22 12:06:25 linux-jump-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 52403 ssh2
+Nov 22 12:50:01 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 47501 ssh2
+Nov 22 12:04:13 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 51149 ssh2
+Nov 22 12:48:06 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 64975 ssh2
+Nov 22 12:06:13 linux-db-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 41423 ssh2
+Nov 22 12:44:52 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 50397 ssh2
+Nov 22 12:48:19 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 47454 ssh2
+Nov 22 12:42:05 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 43782 ssh2
+Nov 22 12:45:21 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 53356 ssh2
+Nov 22 12:52:43 linux-web-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 63673 ssh2
+Nov 22 12:45:35 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 57636 ssh2
+Nov 22 12:45:59 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 52422 ssh2
+Nov 22 12:57:03 linux-jump-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 48930 ssh2
+Nov 22 13:46:43 linux-db-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:54:24 linux-jump-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 47891 ssh2
+Nov 22 13:06:07 linux-web-01 sshd[34567]: Failed password for admin from 198.51.100.23 port 60245 ssh2
+Nov 22 12:23:41 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 45410 ssh2
+Nov 22 13:06:50 linux-jump-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 57266 ssh2
+Nov 22 12:44:00 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 54086 ssh2
+Nov 22 12:12:38 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 50311 ssh2
+Nov 22 13:37:29 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=deploy uid=1000 euid=0 tty=/dev/pts/0 ruser=deploy rhost=  user=deploy
+Nov 22 12:45:30 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 58864 ssh2
+Nov 22 12:40:30 linux-web-01 sshd[12345]: Accepted password for appuser from 192.168.1.77 port 62009 ssh2
+Nov 22 13:01:20 linux-db-01 sshd[34567]: Failed password for appuser from 198.51.100.23 port 42082 ssh2
+Nov 22 13:31:58 linux-web-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:59:22 linux-jump-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 62619 ssh2
+Nov 22 12:44:41 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 55222 ssh2
+Nov 22 12:51:12 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 56674 ssh2
+Nov 22 12:26:01 linux-web-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 47501 ssh2
+Nov 22 12:59:20 linux-db-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 56034 ssh2
+Nov 22 12:10:53 linux-db-01 sshd[12345]: Accepted password for appuser from 192.168.1.77 port 62549 ssh2
+Nov 22 12:48:22 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 40463 ssh2
+Nov 22 12:38:19 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.50 port 47707 ssh2
+Nov 22 12:49:09 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 50006 ssh2
+Nov 22 12:44:12 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 61753 ssh2
+Nov 22 12:49:40 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 61221 ssh2
+Nov 22 13:22:14 linux-db-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:55:32 linux-jump-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 40718 ssh2
+Nov 22 12:30:30 linux-web-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 43224 ssh2
+Nov 22 12:46:33 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 52997 ssh2
+Nov 22 12:52:41 linux-jump-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 54427 ssh2
+Nov 22 12:41:49 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 49338 ssh2
+Nov 22 12:22:07 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.50 port 63983 ssh2
+Nov 22 12:41:59 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 40256 ssh2
+Nov 22 12:45:25 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 53624 ssh2
+Nov 22 13:00:09 linux-web-01 sshd[34567]: Failed password for root from 37.120.150.90 port 59214 ssh2
+Nov 22 13:15:27 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:14:48 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 42978 ssh2
+Nov 22 12:50:36 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 41202 ssh2
+Nov 22 12:48:39 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 46041 ssh2
+Nov 22 12:54:35 linux-jump-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 61851 ssh2
+Nov 22 13:33:46 linux-web-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:34:32 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 54909 ssh2
+Nov 22 13:48:04 linux-db-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:50:59 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 54356 ssh2
+Nov 22 12:49:36 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 60481 ssh2
+Nov 22 13:00:04 linux-web-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 58500 ssh2
+Nov 22 12:51:20 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 58063 ssh2
+Nov 22 12:45:43 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 52742 ssh2
+Nov 22 13:01:45 linux-web-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 49883 ssh2
+Nov 22 13:00:23 linux-web-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 44835 ssh2
+Nov 22 12:47:59 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 48237 ssh2
+Nov 22 12:48:01 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 50339 ssh2
+Nov 22 12:51:09 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 61224 ssh2
+Nov 22 13:35:25 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1000 euid=0 tty=/dev/pts/0 ruser=ubuntu rhost=  user=ubuntu
+Nov 22 13:20:10 linux-db-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=appuser uid=1000 euid=0 tty=/dev/pts/0 ruser=appuser rhost=  user=appuser
+Nov 22 13:25:33 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:54:47 linux-web-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 57910 ssh2
+Nov 22 12:55:15 linux-db-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 55833 ssh2
+Nov 22 12:35:23 linux-db-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 58211 ssh2
+Nov 22 12:52:10 linux-db-01 sshd[34567]: Failed password for root from 185.13.44.200 port 55498 ssh2
+Nov 22 12:49:38 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 53930 ssh2
+Nov 22 13:08:57 linux-db-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:52:22 linux-jump-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 61365 ssh2
+Nov 22 12:46:41 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 43966 ssh2
+Nov 22 13:03:06 linux-jump-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 62505 ssh2
+Nov 22 12:50:18 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 59180 ssh2
+Nov 22 12:43:35 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 63584 ssh2
+Nov 22 12:37:31 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 46089 ssh2
+Nov 22 12:56:19 linux-jump-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 44481 ssh2
+Nov 22 13:01:57 linux-jump-01 sshd[34567]: Failed password for admin from 198.51.100.23 port 49011 ssh2
+Nov 22 12:43:21 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 59548 ssh2
+Nov 22 12:50:48 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 55138 ssh2
+Nov 22 13:01:03 linux-db-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 40517 ssh2
+Nov 22 13:39:03 linux-web-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:41:44 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 46984 ssh2
+Nov 22 12:45:17 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 63147 ssh2
+Nov 22 12:45:05 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 57081 ssh2
+Nov 22 12:51:35 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 61624 ssh2
+Nov 22 12:51:57 linux-jump-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 47653 ssh2
+Nov 22 12:18:05 linux-jump-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 61003 ssh2
+Nov 22 12:46:21 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 52087 ssh2
+Nov 22 12:45:47 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 63729 ssh2
+Nov 22 12:24:13 linux-db-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 46940 ssh2
+Nov 22 12:59:46 linux-jump-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 49040 ssh2
+Nov 22 12:42:15 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 46901 ssh2
+Nov 22 12:49:12 linux-jump-01 sshd[23456]: Failed password for root from 203.0.113.45 port 60496 ssh2
+Nov 22 12:20:22 linux-db-01 sshd[12345]: Accepted password for backup from 10.0.0.15 port 46517 ssh2
+Nov 22 13:32:05 linux-jump-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:33:32 linux-web-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 40483 ssh2
+Nov 22 13:27:13 linux-jump-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:50:16 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 61348 ssh2
+Nov 22 13:19:39 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 12:56:31 linux-jump-01 sshd[34567]: Failed password for root from 37.120.150.90 port 41291 ssh2
+Nov 22 12:43:09 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 53056 ssh2
+Nov 22 13:04:45 linux-db-01 sshd[34567]: Failed password for appuser from 198.51.100.23 port 54061 ssh2
+Nov 22 12:44:15 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 43060 ssh2
+Nov 22 12:44:18 linux-web-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 47361 ssh2
+Nov 22 12:31:57 linux-web-01 sshd[12345]: Accepted password for appuser from 192.168.1.50 port 55159 ssh2
+Nov 22 12:52:47 linux-web-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 42451 ssh2
+Nov 22 12:47:23 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 51152 ssh2
+Nov 22 13:18:24 linux-jump-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:50:27 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 45269 ssh2
+Nov 22 13:10:55 linux-web-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:07:40 linux-jump-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 63087 ssh2
+Nov 22 12:30:56 linux-web-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 43580 ssh2
+Nov 22 12:43:58 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 40013 ssh2
+Nov 22 12:44:43 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 43976 ssh2
+Nov 22 12:45:40 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 59767 ssh2
+Nov 22 13:23:46 linux-jump-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:09:59 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 12:51:16 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 55810 ssh2
+Nov 22 12:37:21 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 57403 ssh2
+Nov 22 12:53:42 linux-web-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 43225 ssh2
+Nov 22 12:21:37 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 40638 ssh2
+Nov 22 13:46:51 linux-db-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:46:57 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 64045 ssh2
+Nov 22 12:46:55 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 63177 ssh2
+Nov 22 12:49:10 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 59976 ssh2
+Nov 22 12:40:55 linux-jump-01 sshd[12345]: Accepted password for appuser from 192.168.1.77 port 64637 ssh2
+Nov 22 12:55:45 linux-jump-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 64417 ssh2
+Nov 22 12:08:43 linux-db-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 52130 ssh2
+Nov 22 12:53:20 linux-jump-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 60538 ssh2
+Nov 22 12:47:18 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 40940 ssh2
+Nov 22 12:46:44 linux-jump-01 sshd[23456]: Failed password for root from 203.0.113.45 port 57456 ssh2
+Nov 22 12:46:50 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 40414 ssh2
+Nov 22 12:58:39 linux-web-01 sshd[34567]: Failed password for appuser from 198.51.100.23 port 54864 ssh2
+Nov 22 12:43:34 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 60419 ssh2
+Nov 22 13:48:24 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=appuser uid=1000 euid=0 tty=/dev/pts/0 ruser=appuser rhost=  user=appuser
+Nov 22 12:34:11 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 45394 ssh2
+Nov 22 12:09:05 linux-db-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 62997 ssh2
+Nov 22 12:48:48 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 44971 ssh2
+Nov 22 13:02:37 linux-jump-01 sshd[34567]: Failed password for root from 37.120.150.90 port 58066 ssh2
+Nov 22 12:56:07 linux-web-01 sshd[34567]: Failed password for backup from 198.51.100.23 port 48212 ssh2
+Nov 22 12:38:39 linux-db-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 58970 ssh2
+Nov 22 12:08:28 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 49108 ssh2
+Nov 22 12:41:46 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 51436 ssh2
+Nov 22 13:01:07 linux-web-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 64304 ssh2
+Nov 22 12:50:54 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 60493 ssh2
+Nov 22 12:46:47 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 42259 ssh2
+Nov 22 12:47:53 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 64442 ssh2
+Nov 22 12:58:11 linux-jump-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 61222 ssh2
+Nov 22 13:00:38 linux-jump-01 sshd[34567]: Failed password for root from 185.13.44.200 port 44741 ssh2
+Nov 22 12:21:01 linux-web-01 sshd[12345]: Accepted password for appuser from 192.168.1.50 port 57378 ssh2
+Nov 22 12:15:33 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 45242 ssh2
+Nov 22 12:58:24 linux-web-01 sshd[34567]: Failed password for backup from 185.13.44.200 port 49902 ssh2
+Nov 22 12:44:36 linux-jump-01 sshd[23456]: Failed password for root from 203.0.113.45 port 53931 ssh2
+Nov 22 12:48:43 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 43738 ssh2
+Nov 22 12:56:42 linux-db-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 51955 ssh2
+Nov 22 13:41:06 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=deploy uid=1000 euid=0 tty=/dev/pts/0 ruser=deploy rhost=  user=deploy
+Nov 22 13:26:26 linux-jump-01 sudo: sudo:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:05:42 linux-db-01 sshd[34567]: Failed password for ubuntu from 198.51.100.23 port 50211 ssh2
+Nov 22 12:46:28 linux-jump-01 sshd[23456]: Failed password for root from 203.0.113.45 port 50192 ssh2
+Nov 22 12:49:01 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 47395 ssh2
+Nov 22 13:01:50 linux-db-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 56065 ssh2
+Nov 22 12:42:02 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 61737 ssh2
+Nov 22 12:48:29 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 49572 ssh2
+Nov 22 13:03:48 linux-jump-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 44005 ssh2
+Nov 22 13:07:19 linux-web-01 sshd[34567]: Failed password for root from 185.13.44.200 port 54111 ssh2
+Nov 22 12:49:05 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 54507 ssh2
+Nov 22 12:45:29 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 52762 ssh2
+Nov 22 12:45:13 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 57699 ssh2
+Nov 22 12:59:49 linux-web-01 sshd[34567]: Failed password for root from 185.13.44.200 port 61717 ssh2
+Nov 22 12:45:56 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 55128 ssh2
+Nov 22 13:07:44 linux-web-01 sshd[34567]: Failed password for appuser from 37.120.150.90 port 61890 ssh2
+Nov 22 12:26:46 linux-web-01 sshd[12345]: Accepted password for appuser from 10.0.0.15 port 47020 ssh2
+Nov 22 12:45:49 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 60390 ssh2
+Nov 22 13:29:45 linux-jump-01 sudo: sudo:   backup : TTY=pts/0 ; PWD=/home/backup ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:40:56 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=ubuntu uid=1000 euid=0 tty=/dev/pts/0 ruser=ubuntu rhost=  user=ubuntu
+Nov 22 12:42:24 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 40116 ssh2
+Nov 22 12:55:34 linux-jump-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 58544 ssh2
+Nov 22 12:48:36 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 55381 ssh2
+Nov 22 12:21:57 linux-web-01 sshd[12345]: Accepted password for appuser from 192.168.1.77 port 41898 ssh2
+Nov 22 12:48:24 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 48988 ssh2
+Nov 22 13:04:31 linux-db-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 64989 ssh2
+Nov 22 12:23:01 linux-db-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 44120 ssh2
+Nov 22 12:44:24 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 42386 ssh2
+Nov 22 12:51:00 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 40945 ssh2
+Nov 22 13:14:17 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=deploy uid=1000 euid=0 tty=/dev/pts/0 ruser=deploy rhost=  user=deploy
+Nov 22 13:48:29 linux-db-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:01:53 linux-jump-01 sshd[34567]: Failed password for deploy from 198.51.100.23 port 50554 ssh2
+Nov 22 12:50:26 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 50921 ssh2
+Nov 22 12:42:33 linux-db-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 43665 ssh2
+Nov 22 13:40:23 linux-jump-01 sudo: sudo:   root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:47:20 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 55976 ssh2
+Nov 22 12:48:51 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 42791 ssh2
+Nov 22 13:05:35 linux-jump-01 sshd[34567]: Failed password for appuser from 198.51.100.23 port 53757 ssh2
+Nov 22 12:47:42 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 53251 ssh2
+Nov 22 12:48:47 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 42427 ssh2
+Nov 22 12:46:51 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 54205 ssh2
+Nov 22 13:12:55 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 12:34:03 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 55913 ssh2
+Nov 22 12:44:35 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 61497 ssh2
+Nov 22 12:46:03 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 50710 ssh2
+Nov 22 12:59:31 linux-db-01 sshd[34567]: Failed password for admin from 185.13.44.200 port 47736 ssh2
+Nov 22 12:13:08 linux-web-01 sshd[12345]: Accepted password for backup from 192.168.1.77 port 61064 ssh2
+Nov 22 13:08:29 linux-db-01 sshd[34567]: Failed password for root from 185.13.44.200 port 60254 ssh2
+Nov 22 13:49:00 linux-web-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:44:59 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 64368 ssh2
+Nov 22 12:42:40 linux-web-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 58105 ssh2
+Nov 22 12:58:52 linux-db-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 57701 ssh2
+Nov 22 13:06:24 linux-jump-01 sshd[34567]: Failed password for deploy from 185.13.44.200 port 54484 ssh2
+Nov 22 13:30:22 linux-jump-01 sudo: sudo:   deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 13:50:23 linux-jump-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:49:45 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 59498 ssh2
+Nov 22 12:51:39 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 57648 ssh2
+Nov 22 13:17:40 linux-web-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:47:40 linux-jump-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 40565 ssh2
+Nov 22 12:50:56 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 48750 ssh2
+Nov 22 12:45:31 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 51526 ssh2
+Nov 22 12:45:42 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 48943 ssh2
+Nov 22 12:11:18 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 41832 ssh2
+Nov 22 12:42:52 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 47757 ssh2
+Nov 22 13:11:12 linux-jump-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=appuser uid=1000 euid=0 tty=/dev/pts/0 ruser=appuser rhost=  user=appuser
+Nov 22 13:41:33 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=deploy uid=1000 euid=0 tty=/dev/pts/0 ruser=deploy rhost=  user=deploy
+Nov 22 12:42:56 linux-web-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 40812 ssh2
+Nov 22 12:45:10 linux-db-01 sshd[23456]: Failed password for root from 203.0.113.45 port 47683 ssh2
+Nov 22 12:09:48 linux-jump-01 sshd[12345]: Accepted password for backup from 192.168.1.50 port 60806 ssh2
+Nov 22 12:49:22 linux-web-01 sshd[23456]: Failed password for root from 203.0.113.45 port 54762 ssh2
+Nov 22 13:08:19 linux-db-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 53252 ssh2
+Nov 22 13:03:36 linux-db-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 59217 ssh2
+Nov 22 12:17:11 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 43753 ssh2
+Nov 22 12:36:44 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 41873 ssh2
+Nov 22 13:16:08 linux-db-01 sudo: sudo:   appuser : TTY=pts/0 ; PWD=/home/appuser ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:42:27 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 45294 ssh2
+Nov 22 12:57:57 linux-db-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 48590 ssh2
+Nov 22 12:49:56 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 57694 ssh2
+Nov 22 13:02:07 linux-jump-01 sshd[34567]: Failed password for backup from 37.120.150.90 port 63335 ssh2
+Nov 22 12:49:33 linux-db-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 42332 ssh2
+Nov 22 13:01:35 linux-web-01 sshd[34567]: Failed password for deploy from 37.120.150.90 port 60155 ssh2
+Nov 22 13:08:25 linux-jump-01 sshd[34567]: Failed password for backup from 185.13.44.200 port 43774 ssh2
+Nov 22 13:21:36 linux-web-01 sudo: sudo: pam_unix(sudo:auth): authentication failure; logname=root uid=1000 euid=0 tty=/dev/pts/0 ruser=root rhost=  user=root
+Nov 22 12:42:17 linux-jump-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 62527 ssh2
+Nov 22 12:58:31 linux-web-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 43184 ssh2
+Nov 22 13:16:42 linux-web-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:46:13 linux-db-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 61356 ssh2
+Nov 22 12:51:42 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 58085 ssh2
+Nov 22 12:46:29 linux-web-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 50222 ssh2
+Nov 22 12:11:48 linux-web-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 48773 ssh2
+Nov 22 12:36:19 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 64108 ssh2
+Nov 22 12:46:06 linux-db-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 64641 ssh2
+Nov 22 13:06:41 linux-web-01 sshd[34567]: Failed password for ubuntu from 185.13.44.200 port 49281 ssh2
+Nov 22 13:05:15 linux-db-01 sshd[34567]: Failed password for root from 198.51.100.23 port 63026 ssh2
+Nov 22 12:54:08 linux-web-01 sshd[34567]: Failed password for admin from 37.120.150.90 port 58544 ssh2
+Nov 22 13:07:59 linux-db-01 sshd[34567]: Failed password for root from 185.13.44.200 port 64315 ssh2
+Nov 22 12:27:27 linux-jump-01 sshd[12345]: Accepted password for ubuntu from 10.0.0.15 port 58881 ssh2
+Nov 22 12:57:42 linux-db-01 sshd[34567]: Failed password for appuser from 185.13.44.200 port 52929 ssh2
+Nov 22 12:59:38 linux-db-01 sshd[34567]: Failed password for root from 37.120.150.90 port 57841 ssh2
+Nov 22 13:05:09 linux-jump-01 sshd[34567]: Failed password for root from 37.120.150.90 port 62723 ssh2
+Nov 22 12:43:42 linux-db-01 sshd[23456]: Failed password for ubuntu from 203.0.113.45 port 62846 ssh2
+Nov 22 12:46:18 linux-web-01 sshd[23456]: Failed password for deploy from 203.0.113.45 port 58480 ssh2
+Nov 22 12:18:37 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.77 port 45182 ssh2
+Nov 22 13:10:18 linux-jump-01 sudo: sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 22 12:46:34 linux-jump-01 sshd[23456]: Failed password for admin from 203.0.113.45 port 59401 ssh2
+Nov 22 12:05:06 linux-db-01 sshd[12345]: Accepted password for ubuntu from 192.168.1.50 port 51029 ssh2
+Nov 22 13:05:53 linux-jump-01 sshd[34567]: Failed password for ubuntu from 37.120.150.90 port 42783 ssh2
+Nov 22 12:44:03 linux-jump-01 sshd[23456]: Failed password for appuser from 203.0.113.45 port 55236 ssh2
+Nov 22 12:47:00 linux-jump-01 sshd[23456]: Failed password for backup from 203.0.113.45 port 60182 ssh2

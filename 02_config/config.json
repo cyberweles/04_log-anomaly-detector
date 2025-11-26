@@ -1,0 +1,13 @@
+{
+    "log_file": "00_logs/sample_syslog_ssh_big.log",
+    "output_dir": "03_results",
+
+    "anomaly_rules": {
+        "failed_ssh_spike": {
+            "enabled": true,
+            "match_substring": "Failed password",
+            "max_per_minute": 5,
+            "time_format": "%b %d %H:%M:%S"
+        }
+    }
+}

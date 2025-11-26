@@ -1,0 +1,158 @@
+[
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:42",
+    "count": 20,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:43",
+    "count": 23,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:44",
+    "count": 19,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:45",
+    "count": 22,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:46",
+    "count": 22,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:47",
+    "count": 19,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:48",
+    "count": 17,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:49",
+    "count": 20,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:50",
+    "count": 18,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:51",
+    "count": 17,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:52",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:53",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:54",
+    "count": 8,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:55",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:56",
+    "count": 6,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:57",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:58",
+    "count": 8,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T12:59",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:00",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:01",
+    "count": 10,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:02",
+    "count": 6,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:03",
+    "count": 6,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:04",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:05",
+    "count": 8,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:06",
+    "count": 7,
+    "threshold": 5
+  },
+  {
+    "rule": "failes_ssh_spike",
+    "minute": "2024-11-22T13:07",
+    "count": 6,
+    "threshold": 5
+  }
+]
