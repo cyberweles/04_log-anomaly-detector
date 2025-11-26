@@ -84,6 +84,6 @@ Suitable for THM SOC L1 labs, SOC portfolio, and interview prep.
 
 ---
 
-## Author
-
-Part of the **CyberWeles SOC Projects (01–10)** training path.
+## 👤 Author
+**cyberweles**  
+GitHub: https://github.com/cyberweles
